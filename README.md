@@ -5,7 +5,7 @@ since i saw this link: </br>
 https://h30434.www3.hp.com/psg/attachments/psg/OS/539223/1/Windows7-USB-DVD-Download-Tool-Installer-en-US.zip </br>
 
 the idea of uploading all MediaCreationTools start spinning in my head. </br>
-Digital Signature is OK, you can verify in properties. </br>
+Digital Signature is OK, verify in properties. </br>
 IF file were altered, Digital Signature would Not match. </br>
 
 P.D. IF want to [download](https://www.microsoft.com/en-us/software-download/) installers, </br>
